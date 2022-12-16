@@ -13,11 +13,11 @@ Tools and languages:
 
 https://user-images.githubusercontent.com/112335053/208160313-10b01bda-cb00-4bd7-ab83-69c0e2d91b19.mp4
 
+# How to run the app:
+
 ```bash
   git clone https://github.com/Callasaurus/Week-12-Hackathon-TypeScript-Weather-App.git
 ```
-
-# How to run the app:
 
 ```bash
   cd Week-12-Hackathon-TypeScript-Weather-App\my-app
