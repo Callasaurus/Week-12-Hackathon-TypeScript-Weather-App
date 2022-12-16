@@ -1,6 +1,6 @@
 # React & TypeScript Weather App Hackathon
 
-This is a weather app created with React and TypeScript during the week 12 Hackathon at the School of Code. The app fetches data from an API and displays a list of the different weather conditions of any city (based on user search). This was created after 3 days of learning TypeScript and it really highlighted the benefit of the language for me (specifically around strongly typed languages and reducing errors). 
+This is a weather app created with React and TypeScript during the week 12 Hackathon day at the School of Code. The app fetches data from an API and displays a list of the different weather conditions of any city (based on user search). This was created after 3 days of learning TypeScript and it really highlighted the benefit of the language for me (specifically around strongly typed languages and reducing errors). 
 
 ## Skills
 
