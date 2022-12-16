@@ -7,8 +7,12 @@ body {
 }
 
 @keyframes background {
-  from {background-color: white;}
-  to {background-color: darkblue;}
+  from {
+    background-color: white;
+  }
+  to {
+    background-color: darkblue;
+  }
 }
 
 .App {
