@@ -10,7 +10,7 @@ function App() {
 
   async function doFetch() {
     const results = await fetch(
-      `https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/${input}?unitGroup=metric&key=${process.env.REACT_APP_KEY}&contentType=json`
+      `https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/${input}?unitGroup=metric&key=Y2TR7R2AL9M9DDLZNTV7UPV67&contentType=json`
     );
     const data = await results.json();
     console.log(data);
