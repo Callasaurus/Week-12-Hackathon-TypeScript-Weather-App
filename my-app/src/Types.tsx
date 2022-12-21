@@ -6,6 +6,7 @@ export interface t_UserInputProps {
 export interface t_DisplayListProps {
     citiesMatch: object[];
     resolvedAddress?: string;
+    setAllCities: Function;
 }
 
 export interface t_DisplayItemProps {
