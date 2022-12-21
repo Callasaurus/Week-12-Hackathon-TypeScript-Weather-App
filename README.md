@@ -11,7 +11,7 @@ Tools and languages:
 
 # App demo
 
-https://user-images.githubusercontent.com/112335053/208160313-10b01bda-cb00-4bd7-ab83-69c0e2d91b19.mp4
+https://user-images.githubusercontent.com/112335053/208858758-e9bb3d95-9110-45ad-a664-6d3573311310.mp4
 
 # How to run the app:
 
